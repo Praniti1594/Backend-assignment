@@ -65,25 +65,6 @@ A scalable full-stack task management system with JWT authentication, role-based
 
 ---
 
-# 📸 Screenshots
-
-## Login Page
-![Login](screenshots/login.png)
-
-## User Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-## Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
-
-## Swagger Documentation
-![Swagger](screenshots/swagger.png)
-
-## Postman API Testing
-![Postman](screenshots/postman.png)
-
----
-
 # 📁 Project Structure
 
 ```text
